@@ -89,5 +89,5 @@ class ClientThread(Thread):
 
 
 if __name__ == '__main__':
-	server = Server('172.17.255.255', 9339)
+	server = Server('172.17.255.255', 939)
 	server.start()
